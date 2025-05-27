@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# System
+*.log
+.vscode/
+.Trash/
+
+shape_predictor.dat
